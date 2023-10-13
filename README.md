@@ -5,3 +5,5 @@
 3. Commit and push your changes to the remote repository
 4. Open a pull request on GitHub
 
+Once you're pull request is approved and merged into the main branch, you will have successfully contributed to a GitHub repository!
+
