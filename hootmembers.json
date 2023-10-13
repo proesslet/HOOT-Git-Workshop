@@ -5,4 +5,10 @@
     "major": "Computer Science",
     "favoriteLanguage": "HTML"
   }
+  ,{
+    "name": "William Thiesing",
+    "class": "Freshman",
+    "major": "Meteorology",
+    "favoriteLanguage": "Python"
+  }
 ]
