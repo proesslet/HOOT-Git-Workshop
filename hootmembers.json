@@ -1,8 +1,14 @@
 [
   {
-    "name": "Preston Roesslet",
-    "class": "Senior",
+    "name": "Kaitlyn Peters",
+    "class": "Junior",
     "major": "Computer Science",
-    "favoriteLanguage": "Anything but python"
+    "favoriteLanguage": "HTML"
+  },
+  {
+    "name": "William Thiesing",
+    "class": "Freshman",
+    "major": "Meteorology",
+    "favoriteLanguage": "Python"
   }
 ]
