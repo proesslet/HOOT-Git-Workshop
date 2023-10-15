@@ -4,6 +4,7 @@
     "class": "Senior",
     "major": "Computer Science",
     "favoriteLanguage": "Java"
+  },
   {
     "name": "Kaitlyn Peters",
     "class": "Junior",
@@ -15,5 +16,12 @@
     "class": "Freshman",
     "major": "Meteorology",
     "favoriteLanguage": "Python"
+  },
+  {
+    "name": "Cole Hicks",
+    "class": "Junior",
+    "major": "Computer Science",
+    "favoriteLanguage": "JavaScript"
   }
+
 ]
